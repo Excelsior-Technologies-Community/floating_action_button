@@ -38,7 +38,7 @@ Add this to your `pubspec.yaml`:
 dependencies:
   floating_action_button:
     git:
-      url: https://github.com/YOUR_GITHUB_USERNAME/floating_action_button.git
+      url: https://github.com/Excelsior-Technologies-Community/floating_action_button/tree/stage
 ```
 
 Then run:
