@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Floating Action Button Library"),
+        title: const Text("Floating Action Button"),
         centerTitle: true,
       ),
 
