@@ -2,9 +2,7 @@
 
 floating_action_button is a customizable, auto-positioning expandable Floating Action Button (Speed Dial FAB) for Flutter.
 
-It allows you to create multiple action buttons (Camera, Gallery, Message, Add Note, etc.) from a single FAB with smooth animation and zero manual positioning.
-
- and it works automatically.
+It allows you to create multiple action buttons (Camera, Gallery, Message, Add Note, etc.) from a single FAB with smooth animation, zero manual positioning and it works automatically.
 
 -------------------------------
 
